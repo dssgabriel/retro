@@ -271,7 +271,7 @@ V 0266 07 0 Porte de Choisy
 V 0267 13 0 Porte de Clichy
 V 0268 04 1 Porte de Clignancourt
 V 0269 09 0 Porte de Montreuil
-V 0270 05 0 Porte de Pantin 
+V 0270 05 0 Porte de Pantin
 V 0271 09 0 Porte de Saint-Cloud
 V 0272 13 0 Porte de Saint-Ouen
 V 0273 13 0 Porte de Vanves
